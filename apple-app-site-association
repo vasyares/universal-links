@@ -9,7 +9,7 @@
 			"details": [
 			{
 				"appID": "RD8W5D995T.com.razeware.UniveralLinksTutorial.test",
-				"paths": ["*"]
+				"paths": [ "*", "/" ]
 			}
 		]
 	}
