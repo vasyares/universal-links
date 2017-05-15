@@ -1,10 +1,10 @@
 {
-	"applinks": {
+	"v": {
 		"apps": [],
 		"details": [{
 			"appID": "RD8W5D995T.com.razeware.UniversalLinks.test",
 			"paths": [
-				"other"
+				"/other"
 			]
 		}]
 	}
