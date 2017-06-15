@@ -1,13 +1,13 @@
 {
 	"activitycontinuation": {
         "apps": [
-            "RD8W5D995T.com.razeware.UniversalLinks.test"
+            "RD8W5D995T.com.aspirotv.orangetv.deeplinking"
         ]
     },
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "RD8W5D995T.com.razeware.UniversalLinks.test",
+			"appID": "RD8W5D995T.com.aspirotv.orangetv.deeplinking",
 			"paths": [
 				"/other/*"
 			]
